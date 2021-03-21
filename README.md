@@ -10,3 +10,5 @@ The difference between CC and Virtualization is is that virtualization is first 
 
 # Python
 The pseudo-code nature of Python is a strength of Python that allows you to focus on the solution to the problem rather than the language of Python, which makes usuing it very easy. An interpreted language is different from a compiled language because you do not need compilation to run binary, instead it is ran directly from the source code. A language like Python is interpreted because it does not need to be compiled in order to work, it just goes off it's source code.
+
+# Career Exploration
