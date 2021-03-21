@@ -21,4 +21,5 @@ I did a little research on the post graduate cyber security degree at Tri-C and 
 To be co-op ready at Tri-C you must still be currently enrolled, have at least 12 credit hours with two courses related to your field, lastly you need a 2.75 GPA and that is all. The benefits of achieving this are that you get a hands on learning experience through job assignments related to your field, with this real world experience you are able to build connections and a reputation to help you advance your career. 
 
 ## Industry Associations / Student Organizations
+I did some reading on the gaming club that our westshore campus has. I found out that this club is a club made for gamers to come together and share thier love of games. Within this club there are tournaments, meetings, and fun teamplay events. Membership is important for this club because the more gamers you have the wider the variety gets, and the more ideas they have can become reality. The CCDC has a very simple mission to have a controlled and competitive enviornmeant for students to come together to try and build the best program with the best teamwork to move further on into the competition. 
 
