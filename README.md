@@ -12,3 +12,13 @@ The difference between CC and Virtualization is is that virtualization is first 
 The pseudo-code nature of Python is a strength of Python that allows you to focus on the solution to the problem rather than the language of Python, which makes usuing it very easy. An interpreted language is different from a compiled language because you do not need compilation to run binary, instead it is ran directly from the source code. A language like Python is interpreted because it does not need to be compiled in order to work, it just goes off it's source code.
 
 # Career Exploration
+Within my exploration into the beureau of labor statistics I found a lot of useful information. I like how the website will give you direct links to your area of interest and from there you are free to explore all the little sub divisions you come across and it sort of gives off the rabbit hole affect where you could just get lost down there for a very long time reading interesting articles and doing research. 
+
+# Certifications
+I did a little research on the post graduate cyber security degree at Tri-C and found out that it can give you just a little more preperation but in the long run that extra certificate can probably give you the edge over other in job interviews and such. The main purpose of this certificate is to help expand your knowledge of defensive security measures to help secure networks and systems.
+
+## Co-ops/Internships
+To be co-op ready at Tri-C you must still be currently enrolled, have at least 12 credit hours with two courses related to your field, lastly you need a 2.75 GPA and that is all. The benefits of achieving this are that you get a hands on learning experience through job assignments related to your field, with this real world experience you are able to build connections and a reputation to help you advance your career. 
+
+## Industry Associations / Student Organizations
+
